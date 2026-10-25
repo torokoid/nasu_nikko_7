@@ -196,7 +196,7 @@ p.note { display: none; }
 
 
 <br><br>
-    <h2><span class="yellow">HPを分割して軽量化してみました！<br><p class="topicpath"><a href="https://torokoid.github.io/nasu_nikko_1/">Page1</a>><a href="https://torokoid.github.io/nasu_nikko_2/">Page2</a>><a href="https://torokoid.github.io/nasu_nikko_3/">Page3</a>><a href="https://torokoid.github.io/nasu_nikko_4/">Page4</a>><a href="https://torokoid.github.io/nasu_nikko_5/">Page5</a>><a><a href="https://torokoid.github.io/nasu_nikko_6/">Page6</a>><a>Page7</a>><a href="https://torokoid.github.io/nasu_nikko_8/">Page8</a>><a href="https://torokoid.github.io/nasu_nikko_9/">Page9</a>><a href="https://torokoid.github.io/nasu_nikko_10/">Page10</a></p></span></h2>
+    <h2><span class="yellow">HPを分割して軽量化してみました！<br><p class="topicpath"><a href="https://torokoid.github.io/nasu_nikko_1/">Page1</a>><a href="https://torokoid.github.io/nasu_nikko_2/">Page2</a>><a href="https://torokoid.github.io/nasu_nikko_3/">Page3</a>><a href="https://torokoid.github.io/nasu_nikko_4/">Page4</a>><a href="https://torokoid.github.io/nasu_nikko_5/">Page5</a>><a href="https://torokoid.github.io/nasu_nikko_6/">Page6</a>><a>Page7</a>><a href="https://torokoid.github.io/nasu_nikko_8/">Page8</a>><a href="https://torokoid.github.io/nasu_nikko_9/">Page9</a>><a href="https://torokoid.github.io/nasu_nikko_10/">Page10</a></p></span></h2>
 
 
 
